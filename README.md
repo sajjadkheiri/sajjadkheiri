@@ -1,7 +1,7 @@
 <h1 align="center">Sajjad Kheiri</h1>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/sajjad-kheiri-1ab962144" target="_blank">
+ <a href="https://www.linkedin.com/in/sajjad-kheiri" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
   
