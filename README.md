@@ -21,5 +21,8 @@
 
 ❔ You Can ask me about:NET Related Stuff, DDD, Design Patterns, Clean architecture, Micro Services 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjadkheiri&show_icons=true)
+
+
 </br>
 </p>
