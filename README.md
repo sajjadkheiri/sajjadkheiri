@@ -22,10 +22,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-❔ You Can ask me about:NET Related Stuff, DDD, Design Patterns, Clean architecture, Micro Services 
+❔ You Can ask me about: NET Related Stuff, DDD, Design Patterns, Clean architecture, Micro Services 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjadkheiri&show_icons=true)
-
+<img src="https://raw.githubusercontent.com/alsiam/alsiam/refs/heads/main/assets/programmer.gif" width="300" height="193.05" />
 
 
 </br>
