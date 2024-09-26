@@ -13,15 +13,19 @@
   </strong>
 </p>
 
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="40" height="40" />
-</p>
+![C#](https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&labelColor=black&logo=scharp&logoColor=512BD4)
+![.Net](https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&labelColor=black&logo=selenium&logoColor=43B02A)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ❔ You Can ask me about:NET Related Stuff, DDD, Design Patterns, Clean architecture, Micro Services 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjadkheiri&show_icons=true)
+
 
 
 </br>
